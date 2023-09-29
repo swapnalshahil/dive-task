@@ -36,13 +36,4 @@
 - Code Quality - remove any unnecessary code, avoid large functions
 - Good commit history - we won’t accept a repo with a single giant commit 🙅‍♀️
 
-### Task submission
-Using the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow#following-github-flow) for assignment submission
-1. Creating a new branch 
-2. Raising a Pull Request for submission
-3. Using GitHub Discussions to ask any relevant questions regarding the project
-4. Final submission Checklist:
-- [ ] SUBMISSION.md in the repository / PR, with:
-  - [ ] commands to set up the repo (dependencies etc.)
-  - [ ] commands to run the test suite
-  - [ ] commands to run the API server
+

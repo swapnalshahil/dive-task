@@ -49,8 +49,6 @@
 
 <p>Application will run on http://localhost:5000 by default. </p>
 <p>For API testing you can use Postman or any other API testing tool</p>
-<br>
-
 
 ### Endpoints
 

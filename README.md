@@ -19,23 +19,39 @@
 ### Work Demonstration Video - [Youtube Link](https://www.youtube.com/watch?v=zb459GNLEeg)
 ### Installation and Setup
 
-```
-# Clone the repository
-> git clone https://github.com/DiveHQ-Octernships/dive-backend-engineering-octernship-swapnalshahil.git
-> cd dive-backend-engineering-octernship-swapnalshahil
-# Create and activate virtual environment
-> python -m venv myenv
-> myenv\Scripts\activate
-# Install dependencies
-> pip install -r requirements.txt
-# Set up environment variables .envsample file is given
-> set FLASK_APP=app
-# create database
-> flask db upgrade
-> flask run
-# Application will run on http://localhost:5000 by default
-# For API testing you can use Postman or any other API testing tool
-```
+
+1. **Clone the Repository:**
+
+   ```
+   git clone https://github.com/DiveHQ-Octernships/dive-backend-engineering-octernship-swapnalshahil.git
+   cd dive-backend-engineering-octernship-swapnalshahil```
+   
+2. **Create and activate virtual environment:** 
+    ```
+    python -m venv myenv
+    myenv\Scripts\activate
+    ```
+3. **Install dependencies:** 
+    ```
+    pip install -r requirements.txt
+    ```
+
+3. **Set up environment variables .envsample file is given:**  
+    ```
+    set FLASK_APP=app
+    ```
+
+3. **Create database:**
+    ```
+    flask db upgrade
+    flask run
+    ```
+
+<p>Application will run on http://localhost:5000 by default. </p>
+<p>For API testing you can use Postman or any other API testing tool</p>
+<br>
+
+
 ### Endpoints
 
 | Endpoints               | Methods | Access                                       | Rule                           |
